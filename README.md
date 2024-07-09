@@ -5,3 +5,4 @@ This project demonstrates time series ARIMA prediction models
 & visualizations taking in considerations Seasonality
 
 - For Educational Purposes
+[Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data)
